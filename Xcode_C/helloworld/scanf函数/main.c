@@ -30,7 +30,7 @@ int main(int argc, const char * argv[]) {
     int n1;
     float f1;
     scanf("%d%f",&n1,&f1);
-    printf("n1=%c   f1=%f \n",n1,f1);  //float 保留6位小数
+    printf("n1=%d   f1=%f \n",n1,f1);  //float 保留6位小数
     return 0;
     //哈哈哈
     
