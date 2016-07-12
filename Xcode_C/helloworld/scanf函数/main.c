@@ -33,5 +33,6 @@ int main(int argc, const char * argv[]) {
     printf("n1=%d   f1=%f \n",n1,f1);  //float 保留6位小数
     return 0;
     //哈哈哈
+//11111
     
 }
