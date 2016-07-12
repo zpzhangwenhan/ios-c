@@ -27,6 +27,10 @@ int main(int argc, const char * argv[]) {
     printf("当前编译环境下long是:%lu 个字节表示的\n",sizeof(long));
     printf("当前编译环境下long long是:%lu 个字节表示的\n",sizeof(long long));
     
+    printf("--------------------------------------------------\n");
+    
+    
+    
     return 0;
 }
 
