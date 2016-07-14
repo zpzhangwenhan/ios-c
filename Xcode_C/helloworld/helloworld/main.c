@@ -30,6 +30,22 @@ int main(int argc, const char * argv[]) {
     printf("--------------------------------------------------\n");
     
     
+    if(12) {   //永真式（非0）
+        printf("永真式\n");
+    }else   {
+        printf("永真式fuck！\n");
+    }
+    
+    if(0) {   //永假式
+        printf("永假式\n");
+    }else   {
+        printf("永假式fuck！\n");
+    }
+
+    printf("--------------------------------------------------\n");
+    
+    
+    
     
     return 0;
 }

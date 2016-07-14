@@ -19,6 +19,11 @@
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
+		<key>zwh_practice.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
 		<key>变量 copy.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -34,6 +39,16 @@
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
+		<key>指针.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>流程控制.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
 		<key>运算.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -42,6 +57,21 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>3B0D0F251D363C7D002593D0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3B0D0F301D3741B0002593D0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3B0D0F3B1D376F17002593D0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>3B25EA701D3376C30007E093</key>
 		<dict>
 			<key>primary</key>
